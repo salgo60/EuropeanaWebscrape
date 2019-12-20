@@ -1,4 +1,4 @@
-"""Function to check consistancy Europeana agent/base -> Wikidata
+"""Function to check consistency Europeana agent/base -> Wikidata
     1) Read Wikidata
     2) Check if Europeana agent/base 1 - RANGEEuropeana
     2-1) Record exist
