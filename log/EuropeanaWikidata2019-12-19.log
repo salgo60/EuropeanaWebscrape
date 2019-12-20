@@ -1,0 +1,21 @@
+2019-12-19 19:12:24,277 - INFO - CheckConsistancy.py - main - Version 1.0.0
+2019-12-19 19:12:24,277 - INFO - CheckConsistancy.py - main - Start Europeana / WD
+2019-12-19 19:12:28,484 - INFO - CheckConsistancy.py - main - WD records with EuropeanaEntity 105243 
+2019-12-19 19:12:28,710 - INFO - CheckConsistancy.py - main - Europena missing http://data.europeana.eu/agent/base/1 
+2019-12-19 19:12:28,881 - INFO - CheckConsistancy.py - main - Europeana Q7526690 agent/base/2 Sir Francis Cook, 4th Baronet 
+2019-12-19 19:12:29,169 - INFO - CheckConsistancy.py - check_WD_not_deleted - WD object ok: Q7526690 
+2019-12-19 19:12:29,169 - INFO - CheckConsistancy.py - checkWDValue - WD: Q7526690 Europeana: agent/base/2
+2019-12-19 19:12:29,321 - INFO - CheckConsistancy.py - main - Europeana Q5082455 agent/base/3 Charles Shadwell (playwright) 
+2019-12-19 19:12:29,892 - INFO - CheckConsistancy.py - check_WD_not_deleted - WD object ok: Q5082455 
+2019-12-19 19:12:29,892 - INFO - CheckConsistancy.py - checkWDValue - WD: Q5082455 Europeana: agent/base/3
+2019-12-19 19:12:30,072 - INFO - CheckConsistancy.py - main - Europena missing http://data.europeana.eu/agent/base/4 
+2019-12-19 19:12:30,324 - INFO - CheckConsistancy.py - main - Europeana Q5597 agent/base/5 Raphael 
+2019-12-19 19:12:30,651 - INFO - CheckConsistancy.py - check_WD_not_deleted - WD object ok: Q5597 
+2019-12-19 19:12:30,654 - INFO - CheckConsistancy.py - checkWDValue - WD: Q5597 Europeana: agent/base/5
+2019-12-19 19:12:30,805 - INFO - CheckConsistancy.py - main - Europena missing http://data.europeana.eu/agent/base/6 
+2019-12-19 19:12:30,998 - INFO - CheckConsistancy.py - main - Europeana Q285423 agent/base/7 Sebastiano del Piombo 
+2019-12-19 19:12:31,276 - INFO - CheckConsistancy.py - check_WD_not_deleted - WD object ok: Q285423 
+2019-12-19 19:12:31,277 - INFO - CheckConsistancy.py - checkWDValue - WD: Q285423 Europeana: agent/base/7
+2019-12-19 19:12:31,454 - INFO - CheckConsistancy.py - main - Europeana Q162530 agent/base/8 Clarence Williams (musician) 
+....
+....
